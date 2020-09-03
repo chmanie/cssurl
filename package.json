@@ -34,7 +34,7 @@
     "browserify": "^5.11.2",
     "chai": "^1.9.1",
     "dateformat": "^1.0.8",
-    "eslint": "^0.8.2",
+    "eslint": "^7.8.1",
     "istanbul": "^0.3.2",
     "jsdoc": "^3.3.0-alpha9",
     "leche": "^1.0.1",
